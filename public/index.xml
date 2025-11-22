@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NullSpectra</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on NullSpectra</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Nov 2025 08:23:18 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Mac Apps</title>
+      <link>//localhost:1313/best-mac-apps/</link>
+      <pubDate>Sat, 22 Nov 2025 08:23:18 +0300</pubDate>
+      <guid>//localhost:1313/best-mac-apps/</guid>
+      <description>&lt;p&gt;Hello and welcome to my blog!&lt;/p&gt;&#xA;&lt;p&gt;In this post, we&amp;rsquo;ll review some macOS apps!&lt;/p&gt;&#xA;&lt;p&gt;COMING SOON&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>//localhost:1313/firstpost/</link>
+      <pubDate>Sat, 22 Nov 2025 08:16:28 +0300</pubDate>
+      <guid>//localhost:1313/firstpost/</guid>
+      <description>&lt;p&gt;Hello! Now, I&amp;rsquo;m on this site!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/page/about/</link>
+      <pubDate>Thu, 03 Apr 2025 02:13:50 +0000</pubDate>
+      <guid>//localhost:1313/page/about/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien. Sed id vehicula lectus, sit amet auctor ipsum. Nunc sed massa vel ex condimentum aliquam in a enim. Cras enim sem, tristique eu enim ac, congue commodo mi. Integer quis orci at dolor blandit eleifend.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/page/contact/</link>
+      <pubDate>Thu, 03 Apr 2025 02:13:50 +0000</pubDate>
+      <guid>//localhost:1313/page/contact/</guid>
+      <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mail: &lt;a href=&#34;mailto:nullasvoid@proton.me&#34;&gt;nullasvoid@proton.me&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

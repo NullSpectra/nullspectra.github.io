@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "NullSpectra"
-theme = "ghostwriter"
+theme = "archie"
 
 [Params]
     mainSections = ["post"]

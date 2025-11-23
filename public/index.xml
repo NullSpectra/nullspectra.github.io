@@ -6,14 +6,21 @@
     <description>Recent content on NullSpectra</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Nov 2025 08:23:18 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 10:07:10 +0300</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asahi Linux Experience</title>
+      <link>//localhost:1313/asahi/</link>
+      <pubDate>Sun, 23 Nov 2025 10:07:10 +0300</pubDate>
+      <guid>//localhost:1313/asahi/</guid>
+      <description>&lt;p&gt;Hello! I got my first Mac and used macOS. I am a tiling window manager fan, so I wanted a layout like it for macOS but it was too complex. So, I installed Linux on it. Crazy, right?&lt;/p&gt;&#xA;&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;&#xA;&lt;p&gt;Firstly, I ran Asahi Install Command and followed the introductions. And something like Calamares popped up and I finished the installation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;after-installation&#34;&gt;After Installation&lt;/h2&gt;&#xA;&lt;p&gt;I tested it a little bit, it&amp;rsquo;s really awesome. A lot of packages and copr repositories support Asahi, which is so good. I installed Hyprland on it, now it works really good.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Best Mac Apps</title>
       <link>//localhost:1313/best-mac-apps/</link>
       <pubDate>Sat, 22 Nov 2025 08:23:18 +0300</pubDate>
       <guid>//localhost:1313/best-mac-apps/</guid>
-      <description>&lt;p&gt;Hello and welcome to my blog!&lt;/p&gt;&#xA;&lt;p&gt;In this post, we&amp;rsquo;ll review some macOS apps!&lt;/p&gt;&#xA;&lt;p&gt;COMING SOON&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello and welcome to my blog!&lt;/p&gt;&#xA;&lt;p&gt;In this post, we&amp;rsquo;ll review some macOS apps!&lt;/p&gt;&#xA;&lt;h2 id=&#34;raycast&#34;&gt;Raycast&lt;/h2&gt;&#xA;&lt;p&gt;This could be my favorite app. It has functionality ranging from shortcuts to apps all the way to a simple Spotlight.&lt;/p&gt;&#xA;&lt;p&gt;For example, you can use it just as a basic Spotlight, or with plugins, you can unlock endless possibilities.&lt;/p&gt;&#xA;&lt;p&gt;For instance, I installed the Homebrew plugin for Homebrew and set the Search function to Command+Shift+K. By pressing that shortcut, typing the app name, and hitting Return twice, I can install the app. Isn&amp;rsquo;t that super easy?&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>

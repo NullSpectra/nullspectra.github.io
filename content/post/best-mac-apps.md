@@ -4,7 +4,6 @@ draft = false
 title = 'Best Mac Apps'
 +++
 
-# Best Mac Apps
 Hello and welcome to my blog!
 
 In this post, we'll review some macOS apps!

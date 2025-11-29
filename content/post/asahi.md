@@ -12,4 +12,6 @@ Firstly, I ran Asahi Install Command and followed the introductions. And somethi
 ## After Installation
 I tested it a little bit, it's really awesome. A lot of packages and copr repositories support Asahi, which is so good. I installed Hyprland on it, now it works really good.
 
-I'll update this post.
+But, it's not %100 stable and battery doesn't last as much as macOS.
+
+So, I switched back to macOS. macOS is still better for me. But, if I get bored, I'll try Asahi again and again.

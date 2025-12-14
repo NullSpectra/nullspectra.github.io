@@ -6,8 +6,15 @@
     <description>Recent content on NullSpectra</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Nov 2025 10:07:10 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 09:50:47 +0300</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use Mac</title>
+      <link>//localhost:1313/how-to-use-mac/</link>
+      <pubDate>Sun, 14 Dec 2025 09:50:47 +0300</pubDate>
+      <guid>//localhost:1313/how-to-use-mac/</guid>
+      <description>&lt;p&gt;Hello! You bought a Mac and now you are looking to screen without knowing anything? I got you! Today you&amp;rsquo;ll learn how to use macOS.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-dock-and-menubar&#34;&gt;What is Dock and Menubar?&lt;/h2&gt;&#xA;&lt;p&gt;Dock is bottom line which you have your apps. Menubar is top bar which has Apple logo, you can control apps here unlike Windows.&lt;/p&gt;&#xA;&lt;p&gt;In Windows, these bars are merged into one but in macOS, they are seperated.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-to-launch-apps&#34;&gt;How to launch apps?&lt;/h2&gt;&#xA;&lt;p&gt;To launch apps, we have two options.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Asahi Linux Experience</title>
       <link>//localhost:1313/asahi/</link>
